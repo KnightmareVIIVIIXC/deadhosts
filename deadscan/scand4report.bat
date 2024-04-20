@@ -1,0 +1,1 @@
+dead-domains-linter -i personal_disallowed_domains.txt --export=personalreport.txt --dnscheck=false

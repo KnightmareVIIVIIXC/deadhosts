@@ -1,0 +1,1 @@
+../../AdGuard-Home-Allowlist/configpersonal/personalreport.txt
