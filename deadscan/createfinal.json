@@ -2,9 +2,9 @@
 	"name": "Final Report - Personal List Report + Output Report + Third Party Dead Reports",
 	"description": "Dead domains from various sources, copy and paste into personaldead.txt",
 	"sources": [{
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/hosts-blocklists-scripts/master/hostnames.dead.txt"
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/notracking-blocklists-scripts/master/hostnames.dead.txt"
 		}, {
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/hosts-blocklists-scripts/master/domains.dead.txt"
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/notracking-blocklists-scripts/master/domains.dead.txt"
 		}, {
 			"source": "https://raw.githubusercontent.com/Cats-Team/deadhosts/main/dead.txt"
 		}, {
