@@ -10,8 +10,6 @@
 		}, {
 			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/data/dead_domains.txt"
 		}, {
-			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/data/parked_domains.txt"
-		}, {
 			"source": "personaldead.txt"
 		}, {
 			"source": "personalreport.txt"
