@@ -1,4 +1,0 @@
-!
-! Title: Final Report - Personal List Report + Output Report + Third Party Dead Reports
-! Description: Dead domains from various sources, copy and paste into personaldead.txt
-!
