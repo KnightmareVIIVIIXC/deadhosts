@@ -1,0 +1,1 @@
+dead-domains-linter -i aiofirebog.txt --export=bogreport.txt --dnscheck=false

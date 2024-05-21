@@ -1,1 +1,1 @@
-../../AIO-Firebog-Blocklists/domlists/aiofirebog.txt
+../../AIO-Firebog-Blocklists/lists/aiofirebog.txt
