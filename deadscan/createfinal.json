@@ -12,8 +12,6 @@
 		}, {
 			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/data/parked_domains.txt"
 		}, {
-			"source": "personaldead.txt"
-		}, {
 			"source": "personalreport.txt"
 		}, {
 			"source": "deadoutput.txt"
