@@ -11,12 +11,6 @@
 			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/data/dead_domains.txt"
 		}, {
 			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/data/parked_domains.txt"
-		}, {
-			"source": "personalreport.txt"
-		}, {
-			"source": "bogreport.txt"
-		}, {
-			"source": "deadoutput.txt"
 		}],
 	"transformations": ["RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
 }
